@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Riyazul Islam
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C Programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning html
 
 <!---
 riyazulislam99/riyazulislam99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
