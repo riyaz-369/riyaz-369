@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riyaz</h1>
+<h1 align="start">Hi 👋, I'm Riyaz</h1>
 
 I'm Riyaz, a passionate Jr MERN-stack developer, skilled in building dynamic and responsive web applications. Welcome to my GitHub profile!
 
@@ -35,13 +35,13 @@ I'm Riyaz, a passionate Jr MERN-stack developer, skilled in building dynamic and
 
 ## 🚀 Projects
 
-### Project 1: [Volunteer Management Web App - VolunTrack]
+### Project 1: Volunteer Management Web App - VolunTrack
 Full-stack application for browsing, adding volunteer posts, and requesting to be a volunteer.
 
 - [Client Repository](https://github.com/riyaz-369/volun-track-client?tab=readme-ov-file)
 - [Server Repository](https://github.com/riyaz-369/volun-track-server)
 
-### Project 2: [Art & Craft Store - DrawingDen]
+### Project 2: Art & Craft Store - DrawingDen
 This is an online platform where users can showcase their art and craft items.
 
 - [Client Repository](https://github.com/riyaz-369/drawing-den-client)
@@ -50,5 +50,7 @@ This is an online platform where users can showcase their art and craft items.
 ## 📫 Contact Me
 <p align="left">
 <a href="https://linkedin.com/in/riyaz-miah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaz-miah" height="30" width="40" /></a>
+<a href="mailto:riyazulislam0099@gmail.com" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" alt="riyazulislam0099@gmail.com" height="40" width="40" /></a>
 <a href="https://fb.com/riyazz369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riyazz369" height="30" width="40" /></a>
+</p>
 </p>
