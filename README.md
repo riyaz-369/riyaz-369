@@ -1,8 +1,6 @@
 <img src="https://i.ibb.co/pw8FXwD/github-cover.jpg" alt="Mokkapps GitHub README header image">
 
-<h1 align="start">Hi 👋, I'm Riyaz</h1>
-
-I'm Riyaz, a passionate Jr MERN-stack developer, skilled in building dynamic and responsive web applications. Welcome to my GitHub profile!
+I'm Riyaz, a passionate front-end developer, skilled in building dynamic and responsive web applications. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
@@ -34,20 +32,6 @@ I'm Riyaz, a passionate Jr MERN-stack developer, skilled in building dynamic and
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaz-369&show_icons=true&locale=en&layout=compact" alt="riyaz-369" /></p>
-
-## 🚀 Projects
-
-### Project 1: Volunteer Management Web App - VolunTrack
-Full-stack application for browsing, adding volunteer posts, and requesting to be a volunteer.
-
-- [Client Repository](https://github.com/riyaz-369/volun-track-client?tab=readme-ov-file)
-- [Server Repository](https://github.com/riyaz-369/volun-track-server)
-
-### Project 2: Art & Craft Store - DrawingDen
-This is an online platform where users can showcase their art and craft items.
-
-- [Client Repository](https://github.com/riyaz-369/drawing-den-client)
-- [Server Repository](https://github.com/riyaz-369/drawing-den-server)
 
 ## 📫 Contact Me
 <p align="left">
