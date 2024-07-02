@@ -64,7 +64,7 @@
 
 <h2>👁‍🗨 Current overview</h2>
 
-
 #### I’m exploring - NextJS for better performance.
-#### I’m looking - To collaborate on open source projects.
-
+#### I’m working on - A personal portfolio website using NextJS.
+#### I’m learning - Advanced React patterns and hooks.
+#### I’m looking - To collaborate on open-source projects.
