@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/pw8FXwD/github-cover.jpg" alt="Mokkapps GitHub README header image">
+
 <h1 align="start">Hi 👋, I'm Riyaz</h1>
 
 I'm Riyaz, a passionate Jr MERN-stack developer, skilled in building dynamic and responsive web applications. Welcome to my GitHub profile!
