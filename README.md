@@ -58,7 +58,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/riyaz-miah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaz-miah" height="30" width="40" /></a>
 <a href="mailto:riyazulislam0099@gmail.com" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" alt="riyazulislam0099@gmail.com" height="40" width="40" /></a>
-<a href="https://fb.com/riyazz369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riyazz369" height="30" width="40" /></a>
+<a href="https://fb.com/riyazmiah369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riyazz369" height="30" width="40" /></a>
 </p>
 </p>
 
